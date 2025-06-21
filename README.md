@@ -23,10 +23,9 @@ Always learning and staying updated with the latest in Flutter.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45" />
 </p>
 
 <p align="center">
