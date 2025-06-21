@@ -26,7 +26,7 @@ Always learning and staying updated with the latest in Flutter.
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=restapi" alt="REST API" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="45" height="45" alt="API Icon" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
 </p>
 
