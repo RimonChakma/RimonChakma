@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Rimon Chakma</h1>
 
 <p align="center">
-  💻 App Developer (Fluteer)
+  App Developer (Flutter)
+
  
 </p>
 
