@@ -22,14 +22,20 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" alt="Dart Flutter Firebase" width="45" height="45" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=restapi" alt="REST API" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" width="45" height="45" />
-  <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC Cubit" width="45" height="45" />
-  <img src="https://img.shields.io/bad
+  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC Cubit" />
+  <img src="https://img.shields.io/badge/SharedPreferences-%23F9A825?style=for-the-badge&logo=android&logoColor=white" alt="SharedPreferences" />
+  <img src="https://img.shields.io/badge/UI/UX-%23FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+</p>
 
 
 
