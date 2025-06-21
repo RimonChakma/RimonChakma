@@ -22,13 +22,24 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter & Dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=provider,bloc,getx" alt="State Management" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=restapi" alt="REST API" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=hive" alt="Hive" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="45" height="45"/>
 </p>
 
----
+<p align="center">
+  <!-- Custom icons since some aren't on skillicons.dev -->
+  <img src="https://img.shields.io/badge/GetX-%23purple?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/BLoC-%232196f3?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Provider-%234caf50?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/SharedPreferences-%23ff9800?style=for-the-badge&logo=android&logoColor=white" alt="SharedPreferences" />
+</p>
 
 ## 📈 GitHub Stats
 
