@@ -22,19 +22,23 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
+  <!-- Transparent background icons from skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="45" height="45" alt="API Icon" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  
+  <!-- API transparent icon (from icons8, transparent background) -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="45" height="45" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC Cubit" />
-  <img src="https://img.shields.io/badge/SharedPreferences-%23F9A825?style=for-the-badge&logo=android&logoColor=white" alt="SharedPreferences" />
-  <img src="https://img.shields.io/badge/UI/UX-%23FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <!-- State management and tools with transparent background badges -->
+  <img src="https://skillicons.dev/icons?i=getx" alt="GetX" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=bloc" alt="BLoC Cubit" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/android-logo.png" alt="SharedPreferences" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/figma--v1.png" alt="UI/UX Design" width="45" height="45" />
 </p>
 
 
