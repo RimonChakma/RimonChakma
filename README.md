@@ -27,18 +27,15 @@ Always learning and staying updated with the latest in Flutter.
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
-</p>
-
-<!-- দ্বিতীয় লাইন -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=flat&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/android-logo.png" alt="SharedPreferences" width="45" height="45" />
   <img src="https://img.icons8.com/ios-filled/50/000000/figma--v1.png" alt="Figma" width="45" height="45" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="45" height="45" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/postman-api.png" alt="Postman" width="45" height="45" />
-  <img src="https://img.shields.io/badge/UI%2FUX-%23FF4081?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC Cubit" />
+  <img src="https://img.shields.io/badge/SharedPreferences-%23F9A825?style=for-the-badge&logo=android&logoColor=white" alt="SharedPreferences" />
+  <img src="https://img.shields.io/badge/UI/UX-%23FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+</p>
 
 
 
