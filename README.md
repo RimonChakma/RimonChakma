@@ -30,17 +30,6 @@ Always learning and staying updated with the latest in Flutter.
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 [🔗 Flutter Weather App](https://github.com/RimonChakma/flutter-weather-app)  
-🔹 [🔗 Firebase Auth Demo](https://github.com/RimonChakma/firebase-auth-demo)  
-🔹 [🔗 To-Do List App](https://github.com/RimonChakma/todo-app)  
-🔹 [🔗 Responsive UI Demo](https://github.com/RimonChakma/responsive-ui)
-
-> 📌 Visit my GitHub Repositories for more!
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
