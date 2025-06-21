@@ -22,15 +22,7 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
-  <!-- Transparent background icons from skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-  
-  <!-- API transparent icon (from icons8, transparent background) -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,firebase&perline=5" alt="Flutter, Dart, SQLite, API, Firebase" width="60" height="60"/>
 </p>
 
 <p align="center">
