@@ -1,31 +1,43 @@
 <h1 align="center">👋 Hi, I'm Rimon Chakma</h1>
 
 <p align="center">
-  App Developer (Flutter)
-
- 
+  💻 Flutter Developer | Dart | Firebase | GetX | BLoC | Clean Architecture  
+  <br>
+  📍 Based in Bangladesh | Passionate about building beautiful mobile apps  
 </p>
 
 ---
 
 ## 📌 About Me
 Experienced Flutter Developer skilled in building high-performance, cross-platform mobile apps.  
-Proficient in Dart, state management (GetX, BLoC), REST API integration, and Firebase.  
+Proficient in Dart, state management (GetX, BLoC, Provider), REST API integration, and Firebase.  
 Strong in UI/UX, animations, offline storage (SharedPreferences, SQLite), and performance optimization.  
 Passionate about clean architecture, CI/CD automation, and writing scalable, maintainable code.  
 Always learning and staying updated with the latest in Flutter.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-- 🎯 **Languages:** Dart  
-- 📱 **Framework:** Flutter  
-- 🔥 **Backend/Database:** Firebase (Auth, Firestore), SQLite, Hive  
-- 🧠 **State Management:** GetX, BLoC, Cubit  
-- 🖼️ **UI/UX:** Responsive Design, Animations  
-- 🔧 **Tools:** Android Studio, VS Code, Git & GitHub  
-- 🌐 **API:** REST API, JSON
+<h2 align="center">💙 Love to Code in Flutter</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter & Dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=provider,bloc,getx" alt="State Management" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=restapi" alt="REST API" width="45" height="45"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 [🔗 Flutter Weather App](https://github.com/RimonChakma/flutter-weather-app)  
+🔹 [🔗 Firebase Auth Demo](https://github.com/RimonChakma/firebase-auth-demo)  
+🔹 [🔗 To-Do List App](https://github.com/RimonChakma/todo-app)  
+🔹 [🔗 Responsive UI Demo](https://github.com/RimonChakma/responsive-ui)
+
+> 📌 Visit my GitHub Repositories for more!
 
 ---
 
@@ -50,8 +62,7 @@ Always learning and staying updated with the latest in Flutter.
 
 - 🧠 Advanced Flutter Animations  
 - 🌍 Firebase Performance & Security  
-- 🐍 Python for Backend & AI  
-- ⚙️ CI/CD Automation in Flutter Projects
+- 📦 App Optimization & Deployment  
+- ⚙️ CI/CD Automation with GitHub Actions
 
 ---
-
