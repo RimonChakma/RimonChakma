@@ -22,7 +22,7 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,firebase&perline=5" alt="Flutter, Dart, SQLite, API, Firebase" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,firebase&perline=5&theme=light" alt="Flutter, Dart, SQLite, API, Firebase" width="60" height="60"/>
 </p>
 
 <p align="center">
