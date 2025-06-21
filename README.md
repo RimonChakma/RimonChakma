@@ -17,24 +17,31 @@ Always learning and staying updated with the latest in Flutter.
 
 ---
 
-<h2 align="center">🛠️ Favourite Tools</h2>
+<h2 align="center">🚀 Favourite Tools I Use</h2>
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=dart" alt="Dart](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/postman-api.png" alt="Postman" width="45" height="45" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/figma--v1.png" alt="Figma" width="45" height="45" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/android-logo.png" alt="SharedPreferences" width="45" height="45" />
-  <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=flat&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=flat&logo=flutter&logoColor=white" alt="BLoC Cubit" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="REST API" width="45" height="45" />
+  <!-- Postman -->
+  <img src="https://img.icons8.com/?size=80&id=9AHxUOg7E9q2&format=png" alt="Postman" width="45" height="45" />
+  
+  <!-- SharedPreferences -->
+  <img src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="SharedPreferences" width="45" height="45" />
+  
+  <!-- REST API -->
+  <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="REST API" width="45" height="45" />
+  
+  <!-- Figma -->
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="45" height="45" />
+  
+  <!-- Firebase -->
+  <img src="https://cdn-icons-png.flaticon.com/128/11230/11230683.png" alt="Firebase" width="45" height="45" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="45" height="45" />
+  
+  <!-- Android Studio -->
+  <img src="https://cdn-icons-png.flaticon.com/128/1104/1104982.png" alt="Android Studio" width="45" height="45" />
 </p>
+
 
 
 
