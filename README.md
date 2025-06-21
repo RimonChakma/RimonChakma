@@ -21,8 +21,6 @@ Always learning and staying updated with the latest in Flutter.
 
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
-<h2 align="center">💙 Love to Code in Flutter</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
