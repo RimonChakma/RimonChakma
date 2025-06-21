@@ -20,7 +20,7 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">🛠️ Favourite Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
+  <img src="[https://skillicons.dev/icons?i=dart" alt="Dart](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
