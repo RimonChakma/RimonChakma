@@ -22,16 +22,20 @@ Always learning and staying updated with the latest in Flutter.
 <h2 align="center">💙 Love to Code in Flutter</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,firebase&perline=5&theme=light" alt="Flutter, Dart, SQLite, API, Firebase" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
 </p>
 
 <p align="center">
-  <!-- State management and tools with transparent background badges -->
-  <img src="https://skillicons.dev/icons?i=getx" alt="GetX" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=bloc" alt="BLoC Cubit" width="45" height="45" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/android-logo.png" alt="SharedPreferences" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="45" height="45" />
   <img src="https://img.icons8.com/ios-filled/50/000000/figma--v1.png" alt="UI/UX Design" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/android-logo.png" alt="SharedPreferences" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/postman-api.png" alt="Postman" width="45" height="45" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/flutter.png" alt="GetX" width="45" height="45" />
 </p>
+
 
 
 
