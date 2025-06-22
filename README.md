@@ -77,10 +77,32 @@ Always learning and staying updated with the latest in Flutter.
 
 ---
 
-## 📫 Contact Me
+<h2 align="center">📫 Contact Me</h2>
 
-- 📧 Email: rimon.chakma880@gmail.com  
-- 🔗 LinkedIn: [Rimon Chakma](https://www.linkedin.com/in/rimon-chakma)
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:rimon.chakma880@gmail.com" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="25" alt="Email Icon"/> Email
+  </a>
+  &nbsp; | &nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rimon-chakma-440936330" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="25" alt="LinkedIn Icon"/> LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1CCgYpS1ur/" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" width="25" alt="Facebook Icon"/> Facebook
+  </a>
+  &nbsp; | &nbsp;
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801889846880" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png" width="25" alt="WhatsApp Icon"/> WhatsApp
+  </a>
+</p>
 
 ---
 
