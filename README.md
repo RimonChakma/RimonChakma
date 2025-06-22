@@ -47,6 +47,12 @@ Always learning and staying updated with the latest in Flutter.
 ## 🛠️ Favourite Tools
 
 <p align="center">
+
+  <img src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png" alt="Android Studio" width="45" height="45" />
+
+   <!-- VS Code -->
+  <img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png" alt="Visual Studio" width="45" height="45" />
+
   <!-- Postman -->
   <img src="https://img.icons8.com/?size=80&id=9AHxUOg7E9q2&format=png" alt="Postman" width="45" height="45" />
 
@@ -56,8 +62,6 @@ Always learning and staying updated with the latest in Flutter.
   <!-- GitHub -->
   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="45" height="45" />
 
-  <!-- VS Code -->
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45" />
 </p>
 
 ---
