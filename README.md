@@ -26,11 +26,12 @@ Always learning and staying updated with the latest in Flutter.
   <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="Flutter" width="45" height="45" />
   <!-- Firebase -->
   <img src="https://cdn-icons-png.flaticon.com/128/11230/11230683.png" alt="Firebase" width="45" height="45" />
-  
   <!-- SQLite -->
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45" />
-  <!-- Figma -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="45" height="45" />
+  <!-- Postman -->
+  <img src="https://img.icons8.com/?size=80&id=9AHxUOg7E9q2&format=png" alt="Postman" width="45" height="45" />
+
+
 </p>
 
 ---
@@ -55,8 +56,7 @@ Always learning and staying updated with the latest in Flutter.
    <!-- VS Code -->
   <img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png" alt="Visual Studio" width="45" height="45" />
 
-  <!-- Postman -->
-  <img src="https://img.icons8.com/?size=80&id=9AHxUOg7E9q2&format=png" alt="Postman" width="45" height="45" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="45" height="45" />
 
   <!-- GitHub -->
   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="45" height="45" />
