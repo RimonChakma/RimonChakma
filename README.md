@@ -10,8 +10,9 @@
 
 ---
 
-- 📌 **About Me**  
-- 💻 **Experienced Flutter Developer** skilled in building high-performance, cross-platform mobile apps  
+- ## <img src="https://img.icons8.com/?size=48&id=kofW3lnDP5xU&format=png" width="24" height="24" alt="About Me Icon" /> About Me
+  
+- 💻 **Experienced Flutter Developer:** skilled in building high-performance, cross-platform mobile apps  
 - 🎯 **Proficient in:** Dart, state management (GetX, BLoC, Provider), REST API integration, Firebase  
 - 🖌️ **Strengths:** UI/UX design, custom animations, performance optimization  
 - 🗃️ **Offline Storage:** SharedPreferences, SQLite  
