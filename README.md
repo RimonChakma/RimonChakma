@@ -38,7 +38,8 @@ Always learning and staying updated with the latest in Flutter.
 <p align="center">
   <img src="https://img.shields.io/badge/GetX-%237C4DFF?style=flat&logo=flutter&logoColor=white" alt="GetX" />
   <img src="https://img.shields.io/badge/BLoC/Cubit-%23048FA1?style=flat&logo=flutter&logoColor=white" alt="Bloc" />
-  <img src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="SharedPreferences" width="45" height="45" />
+  <img src="https://cdn-icons-png.flaticon.com/128/1104/1104982.png" alt="Android Studio" width="45" height="45" />
+  
 </p>
 
 ---
@@ -55,9 +56,6 @@ Always learning and staying updated with the latest in Flutter.
   <!-- GitHub -->
   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="45" height="45" />
 
-  <!-- Android Studio -->
-  <img src="https://cdn-icons-png.flaticon.com/128/1104/1104982.png" alt="Android Studio" width="45" height="45" />
-  
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45" />
 </p>
