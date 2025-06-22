@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Rimon Chakma</h1>
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/12910/12910198.png" alt="Wave Icon" width="30" style="vertical-align: middle;"/> Hi, I'm Rimon Chakma
+</h1>
 
 <p align="center">
   💻 App Developer (Flutter)  
