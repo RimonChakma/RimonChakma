@@ -24,7 +24,7 @@
 🔄 DevOps: CI/CD automation with GitHub Actions
 
 📚 Mindset: Always learning and staying updated with the latest in Flutter
----
+
 
 ## 🚀 Tech Stack
 
