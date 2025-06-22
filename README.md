@@ -29,6 +29,8 @@ Always learning and staying updated with the latest in Flutter.
   
   <!-- SQLite -->
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="45" height="45" />
+  <!-- Figma -->
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="45" height="45" />
 </p>
 
 ---
@@ -55,9 +57,6 @@ Always learning and staying updated with the latest in Flutter.
 
   <!-- Postman -->
   <img src="https://img.icons8.com/?size=80&id=9AHxUOg7E9q2&format=png" alt="Postman" width="45" height="45" />
-
-  <!-- Figma -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="45" height="45" />
 
   <!-- GitHub -->
   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="45" height="45" />
