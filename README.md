@@ -10,7 +10,7 @@
 
 ---
 
-📌 About Me 
+- 📌 **About Me**  
 - 💻 **Experienced Flutter Developer** skilled in building high-performance, cross-platform mobile apps  
 - 🎯 **Proficient in:** Dart, state management (GetX, BLoC, Provider), REST API integration, Firebase  
 - 🖌️ **Strengths:** UI/UX design, custom animations, performance optimization  
