@@ -83,32 +83,33 @@ Always learning and staying updated with the latest in Flutter.
 
   <!-- Email -->
   <a href="mailto:rimon.chakma880@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=LPcVDft9Isqt&format=png" alt="Email" width="25"/>
-    <b> Email</b>
+    <img src="https://img.icons8.com/?size=48&id=LPcVDft9Isqt&format=png" alt="Email" width="30"/>
+    <br><b>Email</b>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rimon-chakma-440936330" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" width="25"/>
-    <b> LinkedIn</b>
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" width="30"/>
+    <br><b>LinkedIn</b>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1CCgYpS1ur/" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook" width="25"/>
-    <b> Facebook</b>
+    <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook" width="30"/>
+    <br><b>Facebook</b>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <!-- WhatsApp -->
   <a href="https://wa.me/8801889846880" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" alt="WhatsApp" width="25"/>
-    <b> WhatsApp</b>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" alt="WhatsApp" width="30"/>
+    <br><b>WhatsApp</b>
   </a>
 
 </p>
+
 
 
 
