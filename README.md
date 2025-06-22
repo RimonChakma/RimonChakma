@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rimon Chakma</h1>
 
 <p align="center">
-  💻 Flutter Developer | Dart | Firebase | GetX | BLoC | Clean Architecture  
+  💻 App Developer (Flutter)  
   <br>
   📍 Based in Bangladesh | Passionate about building beautiful mobile apps  
 </p>
