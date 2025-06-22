@@ -21,12 +21,9 @@ Always learning and staying updated with the latest in Flutter.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <!-- Dart -->
-  <img src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png" alt="Dart" width="45" height="45" />
-  
-  <!-- Flutter -->
-  <img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png" alt="Flutter" width="45" height="45" />
-  
+
+  <img src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="SharedPreferences" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="Flutter" width="45" height="45" />
   <!-- Firebase -->
   <img src="https://cdn-icons-png.flaticon.com/128/11230/11230683.png" alt="Firebase" width="45" height="45" />
   
